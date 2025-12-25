@@ -64,7 +64,8 @@ admin.site.register(Student,StudentAdmin)
 
 ## OUTPUT
 ```
-<img width="1697" height="895" alt="Screenshot 2025-12-09 204401" src="https://github.com/user-attachments/assets/ebcd47a6-929e-42f7-82ed-d9238583d159" />
+<img width="922" height="613" alt="image" src="https://github.com/user-attachments/assets/320e9303-deb1-46e7-8125-a27f3a7fc298" />
+
 
 ```
 
